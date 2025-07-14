@@ -1,6 +1,6 @@
 <section>
 <footer class="bg-white dark:bg-green-900">
-    <div class="px-4 py-6 bg-gray-100 dark:bg-green-700 md:flex md:items-center md:justify-between md:flex">
+    <div class="px-4 py-6 bg-gray-100 dark:bg-green-700 md:items-center md:justify-between md:flex">
         <span class="text-lg text-gray-500 dark:text-gray-300 sm:text-center">Correo:  <a href="">malashierbas2023@gmail.com</a>
         </span>
         <section>
