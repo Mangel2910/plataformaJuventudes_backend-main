@@ -1,6 +1,6 @@
 <h2 class="text-4xl text-center">Comunidades</h2>
 <section class="m-5 text-center grid grid-cols-1 md:grid-cols-3 gap-3 flex place-items-center">
-    <div class="md:max-w-sm bg-white border-8 border-gray-700 rounded-xl hover:shadow-2xl/90 dark:bg-gray-800 dark:border-gray-700 transition delay-150 duration-300 ease-in-out">
+    <div class="md:max-w-sm bg-white border-8 border-gray-700 rounded-xl dark:bg-gray-800 dark:border-gray-700 hover:shadow-xl/30 transition delay-150 duration-300 ease-in-out">
        <img class="rounded-t-lg" src="/img/comunidadCuatro.jpg" alt="" />
         <div class="p-5 bg-white rounded-b-lg">
             <h5 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-Black">Comunidades</h5>
@@ -32,7 +32,7 @@
             </div>
         </div>
     </div>
-    <div class="md:max-w-sm bg-white border-8 border-gray-200 rounded-xl hover:shadow-2xl/90 dark:bg-gray-800 dark:border-gray-700 transition delay-150 duration-300 ease-in-out">
+    <div class="md:max-w-sm bg-white border-8 border-gray-200 rounded-xl dark:bg-gray-800 dark:border-gray-700 hover:shadow-xl/30 transition delay-150 duration-300 ease-in-out">
         <img class="rounded-t-lg" src="/img/comunidadCuatro.jpg" alt="" />
         <div class="p-5 bg-white rounded-b-lg">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-Black">Comunidades</h5>
@@ -64,7 +64,7 @@
             </div>
         </div>
     </div>
-    <div class="md:max-w-sm bg-white border-8 border-gray-200 rounded-xl hover:shadow-2xl/90 dark:bg-gray-800 dark:border-gray-700 transition delay-150 duration-300 ease-in-out">
+    <div class="md:max-w-sm bg-white border-8 border-gray-200 rounded-xl dark:bg-gray-800 dark:border-gray-700 hover:shadow-xl/30 transition delay-150 duration-300 ease-in-out">
         <img class="rounded-t-lg" src="/img/comunidadCuatro.jpg" alt="" />
         <div class="p-5 bg-white rounded-b-lg">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-Black">Comunidades</h5>
