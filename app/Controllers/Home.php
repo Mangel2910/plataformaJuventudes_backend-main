@@ -57,6 +57,7 @@ class Home extends BaseController
         return view('repositorio/miguel/head')
         .view('repositorio/miguel/mision-vision')
         .view('repositorio/miguel/poblaciones')
+        .view('repositorio/miguel/formPagina')
         .view('repositorio/miguel/descargaArchivos');
     }
     // public function Mision(): string

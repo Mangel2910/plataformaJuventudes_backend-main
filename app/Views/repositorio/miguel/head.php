@@ -22,7 +22,7 @@
     <div class="hidden w-full md:block md:w-auto" id="navbar-default">
       <ul class="font-medium flex flex-col p-4 md:p-0 mt-4 border border-pink-100 rounded-lg bg-pink-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-pink dark:bg-white-800 md:dark:bg-white-900 dark:border-white-700">
         <li>
-          <a href="https://l.instagram.com/?u=https%3A%2F%2Fforms.gle%2FZ1Td7saeLhFX9MXr5%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaefV9fjZYDTBMmuqbZJa_-3-U2LJ6uxECMV9hGryu4XWreKF7i9mMAODiHuvQ_aem_5wR48mLg6CyW7nZKS2Vxmw&e=AT3vt-YTas-XzSgNtWUUXKj0cAW9W27fFGCwXe29aL5B2ZP0mdrAwW8qIpsKj-RQLQBI9W6JpsUSB1vkbaddCzRg1XINFWB5ztpxZN0" class="text-xl block py-2 px-3 text-gray-900 rounded-sm hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-violet-700 md:p-0 dark:text-black md:dark:hover:text-violet-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Registrate</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUEa9zguc231q5tlj0Lamfu-7Z-1QkW2446AXyxLqZCDnMGg/viewform" class="text-xl block py-2 px-3 text-gray-900 rounded-sm hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-violet-700 md:p-0 dark:text-black md:dark:hover:text-violet-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Registrate</a>
         </li>
         <li>
           <a href="" class="text-xl block py-2 px-3 text-gray-900 rounded-sm hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-black md:dark:hover:text-violet-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Quienes somos?</a>
