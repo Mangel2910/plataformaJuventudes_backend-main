@@ -1,6 +1,6 @@
 <h2 class="text-4xl text-center">Comunidades</h2>
 <section id="comunidades" class="h-auto m-5 text-center grid grid-cols-1 md:grid-cols-3 gap-3 flex place-items-center">
-    <div class="md:max-w-sm bg-white border-3 border-gray-700 rounded-xl dark:bg-gray-800 dark:border-violet-700 hover:shadow-2xl/80 transition delay-150 duration-300 ease-in-out">
+    <div class="md:max-w-sm bg-white border-3 border-black-700 rounded-xl dark:bg-gray-800 hover:dark:border-violet-800 hover:shadow-2xl/80 transition delay-150 duration-300 ease-in-out">
        <img class="rounded-t-lg" src="/img/comunidadCuatro.jpg" alt="" />
         <div class="p-5 bg-white rounded-b-lg">
             <h5 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-Black">Comunidades</h5>
@@ -32,7 +32,7 @@
             </div>
         </div>
     </div>
-    <div class="md:max-w-sm bg-white border-3 border-gray-200 rounded-xl dark:bg-gray-800 dark:border-gray-700 hover:shadow-2xl/80 transition delay-150 duration-300 ease-in-out">
+    <div class="md:max-w-sm bg-white border-3 border-black-700 rounded-xl dark:bg-gray-800 hover:dark:border-pink-600 hover:shadow-2xl/80 transition delay-150 duration-300 ease-in-out">
         <img class="rounded-t-lg" src="/img/comunidadCuatro.jpg" alt="" />
         <div class="p-5 bg-white rounded-b-lg">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-Black">Comunidades</h5>
@@ -64,7 +64,7 @@
             </div>
         </div>
     </div>
-    <div class="md:max-w-sm bg-white border-3 border-gray-200 rounded-xl dark:bg-gray-800 dark:border-green-500 hover:shadow-2xl/80 transition delay-150 duration-300 ease-in-out">
+    <div class="md:max-w-sm bg-white border-3 border-black-200 rounded-xl dark:bg-gray-800 hover:dark:border-green-600 hover:shadow-2xl/80 transition delay-150 duration-300 ease-in-out">
         <img class="rounded-t-lg" src="/img/comunidadCuatro.jpg" alt="" />
         <div class="p-5 bg-white rounded-b-lg">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-Black">Comunidades</h5>

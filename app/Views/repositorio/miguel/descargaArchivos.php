@@ -1,22 +1,22 @@
 <section>
 <footer class="bg-white dark:bg-green-900">
-    <div class="px-4 py-6 bg-gray-100 dark:bg-green-700 md:items-center md:justify-between md:flex">
+    <div class="px-4 py-6 bg-gray-100 dark:bg-blue-950 md:items-center md:justify-between md:flex">
         <span class="text-lg text-gray-500 dark:text-gray-300 sm:text-center">Correo:  <a href="">malashierbas2023@gmail.com</a>
         </span>
         <section>
-            <h2>Descarga de Archivos</h2>
+            <h2 class="text-white">Descarga de Archivos</h2>
                 <ul>
                     <li>
-                        <span>Archivo PDF: </span>
-                        <a href="" class="text-blue-900" >Descargar</a>
+                        <span class="text-white">Archivo PDF: </span>
+                        <a href="" class="text-green-200" >Descargar</a>
                     </li>
                     <li>
-                        <span>Documento Word: </span>
-                        <a href="" class="text-blue-900">Descargar</a>
+                        <span class="text-white">Documento Word: </span>
+                        <a href="" class="text-green-200">Descargar</a>
                     </li>
                     <li>
-                        <span>Imagen JPG: </span>
-                        <a href="" class="text-blue-900">Descargar</a>
+                        <span class="text-white">Imagen JPG: </span>
+                        <a href="" class="text-green-200">Descargar</a>
                     </li>
                 </ul>
         </section>
