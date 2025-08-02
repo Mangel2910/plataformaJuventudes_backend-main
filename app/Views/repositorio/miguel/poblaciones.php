@@ -1,7 +1,7 @@
 <h2 class="text-6xl text-center">Comunidades</h2>
 <section id="comunidades" class="h-auto m-5 text-center grid grid-cols-1 md:grid-cols-2 gap-2 flex place-items-center">
-    <div class="md:max-w-sm bg-white border-3 border-black-700 rounded-xl dark:bg-gray-800 hover:dark:border-violet-800 hover:shadow-2xl/80 transition delay-150 duration-300 ease-in-out">
-       <img class="rounded-t-lg" src="/img/comunidadCuatro.jpg" alt="" />
+    <div class="md:max-w-sm bg-white border-3 border-black-200 rounded-xl dark:bg-gray-800 hover:dark:border-violet-800 hover:shadow-2xl/80 transition delay-150 duration-300 ease-in-out">
+       <img class="rounded-t-lg h-140 " src="/img/comunidadCuatro.jpg" alt="" />
         <div class="p-5 bg-white rounded-b-lg">
             <h1 class="mb-1 text-5xl font-bold tracking-tight text-gray-900 dark:text-Black">Mujeres</h1>
             <div class="w-full px-3.5 pt-2 pb-3.5 rounded flex items-center justify-center gap-1">
@@ -34,7 +34,7 @@
     </div>
     
     <div class="md:max-w-sm bg-white border-3 border-black-200 rounded-xl dark:bg-gray-800 hover:dark:border-green-600 hover:shadow-2xl/80 transition delay-150 duration-300 ease-in-out">
-        <img class="rounded-t-lg" src="/img/comunidadCuatro.jpg" alt="" />
+        <img class="rounded-t-lg h-140 " src="/img/bandera-lgtbiq.jpg" alt="" />
         <div class="p-5 bg-white rounded-b-lg">
             <h5 class="mb-2 text-5xl font-bold tracking-tight text-gray-900 dark:text-Black">LGTBIQ+</h5>
             <div class="w-full px-3.5 pt-2 pb-3.5 rounded flex items-center justify-center gap-1">

@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Malas Hiervas</title>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    
 </head>
 <body class="bg-[/img/Malas_Hierbas.jpg]">
     
@@ -36,3 +37,4 @@
 </nav>
 </body>
 </html>
+

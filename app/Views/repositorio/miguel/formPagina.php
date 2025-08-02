@@ -1,6 +1,8 @@
 <section>
     <div class="grid gap-2 m-5 md:m-20 2xl:grid-cols-2 xl:grid-cols-2 md:grid-cols-1" >
-        <img src="/img/prueba.jpg" alt="" class="object-cover m-5 w-full rounded-lg h-96 sm:h-auto sm:w-50 md:h-100 md:w-150 lg:w-150 xl:w-150 2xl:w-150 md:rounded-[100] place-items-center">
+        <img src="/img/prueba.jpg" alt="" class="object-cover  w-full rounded-lg h-96 sm:h-100 sm:w-150 md:h-100 md:w-150 lg:w-150 xl:w-150 2xl:w-150 md:rounded-[100] place-items-center">
+
+        <!-- FORMULARIO -->
         <div class="md:max-w-4xl m-2 p-2 border-4 rounded-4xl inset-shadow-sm inset-shadow-indigo-500 border-green-600">
             <h1 class="text-center text-4xl pb-10 font-serif">Formulario</h1>
             <form action="" class="grid grid-rows-4 gap-4 text-2xl">
@@ -42,3 +44,4 @@
         </div>
     </div>
 </section>
+

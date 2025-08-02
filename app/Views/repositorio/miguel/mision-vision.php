@@ -1,5 +1,5 @@
  <!-- Mision y Vision -->
-  <section class="grid 2xl:grid-cols-2 xl:grid-cols-2 md:grid-cols-1 gap-2 place-items-center mx-auto w-full pb-20 bg-emerald-100">
+  <section class="grid 2xl:grid-cols-2 xl:grid-cols-2 md:grid-cols-1 gap-2 place-items-center mx-auto w-full pb-20 ">
     <div class="md:flex flex-col items-center bg-white border-4 border-purple-800 rounded-4xl shadow-sm md:flex-row md:max-w-3xl m-8 p-3  transition delay-150 duration-300 ease-in-out ">
         <img class="object-scale-down w-full rounded-lg h-96 md:h-auto md:w-100 lg:w-90 xl:w-60 2xl:w-100 md:rounded-[100] " src="/img/mision.jpg" alt="">
         <div class="flex flex-col justify-between p-4 leading-normal">
